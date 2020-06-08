@@ -32,7 +32,7 @@ namespace LibHotKeys
         public List<HotKey> RegisteredHotKeys { get; set; } = new List<HotKey>();
         MessageListenerWindow window;
         IntPtr windowHandle = IntPtr.Zero;
-        public HotKeyController()
+        private HotKeyController()
         {
             window = new MessageListenerWindow(this);
             windowHandle = window.Handle;
