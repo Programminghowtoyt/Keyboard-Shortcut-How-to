@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingKeyboarShortcuts", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessCmdKeyExample", "ProcessCmdKeyExample\ProcessCmdKeyExample.csproj", "{F806F7AC-52C4-487A-92AC-026ABED601EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibHotKeys", "LibHotKeys\LibHotKeys.csproj", "{91909DD3-1274-4991-A5B6-32050523A562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotKeysExample", "HotKeysExample\HotKeysExample.csproj", "{920D4C7E-BCAB-4AF0-8CCC-E9CED62B31D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F806F7AC-52C4-487A-92AC-026ABED601EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F806F7AC-52C4-487A-92AC-026ABED601EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F806F7AC-52C4-487A-92AC-026ABED601EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91909DD3-1274-4991-A5B6-32050523A562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91909DD3-1274-4991-A5B6-32050523A562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91909DD3-1274-4991-A5B6-32050523A562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91909DD3-1274-4991-A5B6-32050523A562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920D4C7E-BCAB-4AF0-8CCC-E9CED62B31D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920D4C7E-BCAB-4AF0-8CCC-E9CED62B31D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920D4C7E-BCAB-4AF0-8CCC-E9CED62B31D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920D4C7E-BCAB-4AF0-8CCC-E9CED62B31D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
