@@ -7,6 +7,7 @@ using System.Windows.Forms;
 
 namespace LibHotKeys
 {
+    //https://www.youtube.com/watch?v=-CHayQW1z8A
     public class HotKey
     {
         public int id { get; set; } 
